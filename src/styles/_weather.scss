@@ -1,0 +1,9 @@
+$padding:20px;
+
+.weather {
+    background-color: black;
+    padding: $padding;
+    &_overcast {
+        color: yellow;
+    }
+}

@@ -1,0 +1,12 @@
+.location {
+    &__longitude {
+        &_value {
+            color: red;
+        }
+    }
+    &__latitude {
+        &_value {
+            color: green;
+        }
+    }
+}
